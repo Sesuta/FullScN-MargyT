@@ -1,0 +1,11 @@
+{
+  "id": "margyt.fullscreen",
+  "name": "Fullscreen",
+  "name_ru": "Fullscreen",
+  "version": "1.1",
+  "author": "Seust",
+  "description": "Keeps TikTok fullscreen: hides the status bar on every screen. Can be switched off in the plugin's settings.",
+  "description_ru": "Держит TikTok в полноэкранном режиме: скрывает статус-бар на всех экранах. Отключается в настройках плагина.",
+  "entry": "dev.user.fullscreen.FullscreenPlugin",
+  "min_api": 3
+}
